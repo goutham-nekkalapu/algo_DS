@@ -1,0 +1,9 @@
+
+-- DP is used for optmization problems 
+divides the problem to subproblems. Solving subproblems solves the original main problem 
+result of each subproblem is stored, this is called memoization
+
+steps:
+come up with a way to breakdown the problem to subproblems 
+recursively or iteratively solve the sub-problems ans save the results 
+use the above results to solve the main problem 
